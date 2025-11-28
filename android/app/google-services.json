@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289380627307",
+    "project_id": "finanzas-pareja-123bf",
+    "storage_bucket": "finanzas-pareja-123bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289380627307:android:441a9da4926128d87ad22e",
+        "android_client_info": {
+          "package_name": "com.example.app_finanzas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289380627307-rgkm41ov9idhja7aih8dgtvpc7el7g1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJlWikzdNLEu2m5_N6gl-Q0LrBV4gSGxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289380627307-rgkm41ov9idhja7aih8dgtvpc7el7g1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
